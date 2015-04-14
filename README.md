@@ -33,7 +33,7 @@ Illustrator has a bug in it when it comes to scripts. If you don't see `wholePix
 
 It should look like the image below.
 
-![Sheedy Actions](https://github.com/sheedy/adobe-tools/docs/prepare-selection-for-sketch.png)
+![Sheedy Actions](/Docs/prepare-selection-for-sketch.png?raw=true)
 
 ### Scripts
 
